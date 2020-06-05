@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="SampleDrawFrame.ColorEdit"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:SampleDrawFrame"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+             xmlns:systemdrawing="clr-namespace:System.Drawing;assembly=System.Drawing"
+             mc:Ignorable="d"
+             MinWidth="100">
+    <UserControl.Resources>
+        <Style TargetType="ComboBox">
+            <Setter Property="HorizontalContentAlignment"
+                    Value="Stretch" />
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="TextTrimming"
+                    Value="CharacterEllipsis" />
+        </Style>
+    </UserControl.Resources>
+    <ComboBox ItemsSource="{Binding Colors, RelativeSource={RelativeSource AncestorType=UserControl}}"
+              SelectedItem="{Binding Color, RelativeSource={RelativeSource AncestorType=UserControl}}">
+        <ComboBox.ItemTemplate>
+            <DataTemplate>
+                <Grid Height="24">
+                    <Grid.Background>
+                        <SolidColorBrush Color="{Binding}" />
+                    </Grid.Background>
+                </Grid>
+            </DataTemplate>
+        </ComboBox.ItemTemplate>
+    </ComboBox>
+</UserControl>

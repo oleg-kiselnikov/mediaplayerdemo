@@ -1,0 +1,50 @@
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\SampleDrawFrame.exe.config
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\SampleDrawFrame.exe
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\SampleDrawFrame.pdb
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\CommonServiceLocator.dll
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\Prism.dll
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\Prism.Wpf.dll
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\System.ValueTuple.dll
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\Prism.pdb
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\Prism.xml
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\Prism.Wpf.pdb
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\Prism.Wpf.xml
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\bin\Debug\System.ValueTuple.xml
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.csprojAssemblyReference.cache
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\Interop.MFORMATSLib.dll
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.csproj.ResolveComReference.cache
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\MainWindow.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\App.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame_MarkupCompile.cache
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame_MarkupCompile.lref
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\MainWindow.baml
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.g.resources
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.Properties.Resources.resources
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.csproj.GenerateResource.cache
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.csproj.CopyComplete
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.exe
+C:\Users\smart\Desktop\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.pdb
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.csprojAssemblyReference.cache
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\Interop.MFORMATSLib.dll
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.csproj.ResolveComReference.cache
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\MainWindow.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\App.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame_MarkupCompile.cache
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame_MarkupCompile.lref
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.exe
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.pdb
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\bin\Debug\SampleDrawFrame.exe.config
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\bin\Debug\SampleDrawFrame.exe
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\bin\Debug\SampleDrawFrame.pdb
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\MainWindow.baml
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.g.resources
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.Properties.Resources.resources
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SampleDrawFrame.csproj.GenerateResource.cache
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SpinEdit.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\SpinEdit.baml
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\ColorEdit.g.cs
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\obj\Debug\ColorEdit.baml
+C:\Users\smart\Desktop\Sample Draw Frame\Sample Draw Frame\SampleDrawFrame\bin\Debug\Interop.MFORMATSLib.dll
