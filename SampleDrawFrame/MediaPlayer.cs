@@ -35,7 +35,7 @@ namespace SampleDrawFrame
         private readonly MFPreviewClass mfPreview = new MFPreviewClass();
 
         private IntPtr? handle = null;
-        public IntPtr? Handle 
+        public IntPtr? Handle
         {
             get { return handle; }
             set
@@ -52,7 +52,7 @@ namespace SampleDrawFrame
             State = MediaPlayerState.None;
             mavProps.vidProps.eVideoFormat = eMVideoFormat.eMVF_Custom;
 
-            
+
             mfPreview.PreviewEnable("", 0, 1);
             mfPreview.PropsSet("maintain_ar", "false");
         }
@@ -185,7 +185,7 @@ namespace SampleDrawFrame
                 default:
                     return false;
             }
-        }        
+        }
 
         public void ForseFrameRefreshOnPause()
         {
@@ -199,7 +199,7 @@ namespace SampleDrawFrame
         private async Task HandleAsync()
         {
             if (cts.Token.IsCancellationRequested)
-            {                
+            {
                 ReleaseFrame(ref frame);
                 ReleaseBitmap(ref bitmap);
                 return;
@@ -244,7 +244,7 @@ namespace SampleDrawFrame
                     case MediaPlayerState.Rewind:
                     case MediaPlayerState.Paused:
 
-                        Clone(ref frame);                        
+                        Clone(ref frame);
                         bitmap = ToBitmap(ref frame);
                         OnBeforeRendering(bitmap);
                         await RenderAsync(frame);
@@ -316,7 +316,7 @@ namespace SampleDrawFrame
 
         private Task<MFFrame> FastForwardAsync()
         {
-            return Task.Run(() => 
+            return Task.Run(() =>
             {
                 mfReader.SourceFrameConvertedGetByTime(ref mavProps, -1, -1, out MFFrame frame, "loop=true");
                 return frame;
